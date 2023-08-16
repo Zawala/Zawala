@@ -1,7 +1,7 @@
 ## Hello my name is kelvin zawala.
 
 
-### Webdesigner, Solution Architect And IOT enthusiast.
+### Software Developer, Solutions Architect And IOT enthusiast.
 👔  Currently employeed by Durihub as an Intermediate Software Engineer.
 Working at [Africom](http://africom.co.zw) as an Python developer🐍.
 <br>
