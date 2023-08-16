@@ -30,6 +30,6 @@ Working at [Africom](http://africom.co.zw) as an Python developer🐍.
 [<img src="https://img.icons8.com/color/48/000000/golang.png"/>](https://go.dev/doc/)
 [<img src="https://img.icons8.com/color/48/nvidia.png"/>](https://www.nvidia.com/en-us/)
 
-[linkedin]: https://www.linkedin.com/in/kelvin-zawala/
+[linkedin]: https://www.linkedin.com/in/kelvin-zawala-7a64a7218/
 [gmail]: mailto:kelvinzawala@gmail.com
 [resume]: https://github.com/Zawala/zawalak/blob/main/files/kelvin's%20Resume-4.pdf
