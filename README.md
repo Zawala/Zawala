@@ -5,7 +5,7 @@
 👔  Currently employeed by Durihub as an Intermediate Software Engineer.
 Working at [Africom](http://africom.co.zw) as an Python developer🐍.
 <br>
-🏫 I earned a Bachelor Of Technology Honours Degree In Software Engineering from the Harare Institute of Technology
+🏫 I earned a Bachelors Of Technology Honours Degree In Software Engineering from the Harare Institute of Technology
 <br>
 👨🏾‍💻 Currently working with: `Python`, `Golang` and `Frappe`
 <br>
