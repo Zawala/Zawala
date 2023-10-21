@@ -32,4 +32,4 @@ Working at [Africom](http://africom.co.zw) as an Python developer🐍.
 
 [linkedin]: https://www.linkedin.com/in/kelvin-zawala-7a64a7218/
 [gmail]: mailto:kelvinzawala@gmail.com
-[resume]: https://github.com/Zawala/zawalak/blob/main/files/kelvin's%20Resume-4.pdf
+[resume]: https://github.com/Zawala/zawalak/blob/main/files/kelvin's%20Resume.pdf
