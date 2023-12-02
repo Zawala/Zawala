@@ -10,7 +10,7 @@ Working at [Africom](http://africom.co.zw) as an Python developer🐍.
 👨🏾‍💻 Currently working with: `Python`, `Golang` and `Frappe`
 <br>
 📚 Personally using and upskilling in :-
-  * Backend: `Django`, `GoLang`, `Python`
+  * Backend: `Django`, `GoLang`, `Monitoring(Grafana Stack)`
   * Signalling/Networking: `RestApi`, `GRPC`
 <br>
 
@@ -22,12 +22,14 @@ Working at [Africom](http://africom.co.zw) as an Python developer🐍.
 ### Languages and Tools:
 [![Frappe](./files/frappe.png)](https://frappeframework.com/)
 [<img src="https://img.icons8.com/color/48/docker.png"/>](https://www.docker.com/)
+[<img src="https://img.icons8.com/color/48/000000/golang.png"/>](https://go.dev/doc/)
 [<img src="https://img.icons8.com/color/48/python--v1.png"/>](https://www.python.org/)
+[<img src="https://img.icons8.com/fluency/48/grafana.png" alt="grafana"/>](https://grafana.com/)
+[![Loki](./files/logo-loki.svg)](https://grafana.com/oss/loki/)
 [<img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>](https://www.linux.org/)
 [<img src="https://img.icons8.com/color/48/nginx.png"/>](https://www.nginx.com/)
 [<img src="https://img.icons8.com/color/48/ansible.png"/>](https://www.ansible.com/)
 [<img src="https://img.icons8.com/nolan/64/javascript.png"/>](https://js.org/index.html)
-[<img src="https://img.icons8.com/color/48/000000/golang.png"/>](https://go.dev/doc/)
 [<img src="https://img.icons8.com/color/48/nvidia.png"/>](https://www.nvidia.com/en-us/)
 
 [linkedin]: https://www.linkedin.com/in/kelvin-zawala-7a64a7218/
