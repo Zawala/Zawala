@@ -10,7 +10,7 @@ Working at [Africom](http://africom.co.zw) as an Python developer🐍.
 👨🏾‍💻 Currently working with: `Python`, `Golang` and `Frappe`
 <br>
 📚 Personally using and upskilling in :-
-  * Backend: `Django`, `GoLang`, `Monitoring(Grafana Stack)`
+  * `Django`, `GoLang`, `Monitoring(Grafana Stack)`
   * Signalling/Networking: `RestApi`, `GRPC`
 <br>
 
