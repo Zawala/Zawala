@@ -2,7 +2,7 @@
 
 
 ### Backend Software Engineer | Fintech · Payments · Linux Systems
-👔 Currently working at [Sendhome](https://REMOVED.co) as a Backend Engineer (Spring Boot) & Linux Systems Engineer.
+👔 Currently working at [Sendhome](https://REMOVED.co.za) as a Backend Engineer (Spring Boot) & Linux Systems Engineer.
 <br>
 🏫 I earned a Bachelors Of Technology Honours Degree In Software Engineering from the Harare Institute of Technology
 <br>
