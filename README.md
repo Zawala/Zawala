@@ -1,7 +1,7 @@
 ## Hello my name is Kelvin Zawala.
 
 
-### Backend Software Engineer | Fintech · Payments · Linux Systems
+### Backend Engineer | Spring Boot | Fintech APIs | Linux | Payments | ERP SYSTEMS
 👔 Currently working at [Sendhome](https://REMOVED.co.za) as a Backend Engineer (Spring Boot) & Linux Systems Engineer.
 <br>
 🏫 I earned a Bachelors Of Technology Honours Degree In Software Engineering from the Harare Institute of Technology
@@ -40,4 +40,4 @@
 
 [linkedin]: https://www.linkedin.com/in/kelvin-zawala-7a64a7218/
 [gmail]: mailto:kelvinzawala@gmail.com
-[resume]: https://github.com/Zawala/zawalak/blob/main/files/files/Kelvin_Zawala Cv.docx
+[resume]: https://github.com/Zawala/zawalak/blob/main/files/files/Kelvin_ZawalaCv.docx
