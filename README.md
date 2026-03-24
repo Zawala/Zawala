@@ -2,7 +2,7 @@
 
 
 ### Backend Engineer | Spring Boot | Fintech APIs | Linux | Payments | ERP SYSTEMS
-👔 Currently working at [Sendhome](https://REMOVED.co.za) as a Backend Engineer (Spring Boot) & Linux Systems Engineer.
+👔 Current Remittance Developer | Ex Telecoms Systems Developer
 <br>
 🏫 I earned a Bachelors Of Technology Honours Degree In Software Engineering from the Harare Institute of Technology
 <br>
@@ -17,7 +17,6 @@
 ### Connect with me:
 [<img src="https://img.icons8.com/color/48/000000/gmail.png"/>][gmail]
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
-[<img src="https://img.icons8.com/color/48/000000/resume.png"/>][resume]
 
 ### Languages and Tools:
 [<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>](https://www.java.com/)
@@ -40,4 +39,3 @@
 
 [linkedin]: https://www.linkedin.com/in/kelvin-zawala-7a64a7218/
 [gmail]: mailto:kelvinzawala@gmail.com
-[resume]: https://github.com/Zawala/zawalak/blob/main/files/files/Kelvin_ZawalaCv.docx
