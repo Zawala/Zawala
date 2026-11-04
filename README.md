@@ -15,21 +15,6 @@
   * Architecture: `TOGAF`
 <br>
 
-### Experience:
-**Backend Engineer & Linux Systems Engineer** · Sendhome Financial Services · *Oct 2024 - Present*
-  * Backend services and APIs (`Spring Boot`, `Python`) for a SARB-regulated remittance product sending from South Africa to 25+ countries, with OAuth2/JWT security and idempotency controls against duplicate transactions
-  * Built the KYC verification pipeline and disbursement workflows for an inbound remittance platform
-  * Implemented ISO 20022 messaging and a mutual-TLS SOAP/JAXB bank bill-payments gateway; migrated the EcoCash integration to the Sasai API
-  * Built a WhatsApp chatbot for conversational account creation and management
-  * Head DevOps: Azure and Xneelo infrastructure, Linux hardening, Zabbix monitoring and GitHub Actions CI/CD
-
-**Software Developer** · Africom Holdings · *Oct 2021 - Oct 2024*
-  * Built a Frappe/ERPNext app that pushes each subscriber's paid speed and expiry to the right EPC across ~7 LTE nodes when an invoice is paid, replacing manual provisioning
-  * Rebuilt the cGrates billing register from paid customers and staff; paid invoices rose 25% the next billing cycle
-  * Built a cross-EPC reconciliation of active LTE connections against billed accounts; the accounts department reported recovering ~60% of previously lost revenue
-  * Delivered 5+ production Frappe apps (HRMS, ticketing) and integrated PayPal and Paynow with the ERP
-  * Grafana/Loki monitoring; MikroTik automation with `Python`, `Go` and `Ansible`; migrated legacy CDMA clients to VoIP
-
 ### Featured Projects:
 | Project | What it is | Stack |
 |---|---|---|
